@@ -1,5 +1,6 @@
 # Prerequisites
-########
+# #######
+# This is a new change for just a commit
 - JDK 21
 - Maven 3.9
 - MySQL 8
